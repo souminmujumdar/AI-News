@@ -2,6 +2,13 @@
 
 **AI News Summarizer Pro** is an AI-powered web application built with Streamlit that delivers concise, personalized news summaries. Utilizing natural language processing (NLP) models and NewsAPI.org, it provides summarized news articles, sentiment analysis, and a personalized feed across topics such as Technology, Health, Business, Politics, Sports, and Entertainment. Developed by Soumin Mujumdar and Vidhi Binwal from Symbiosis Institute of Technology (SIT), Pune, this project demonstrates expertise in AI and web development.
 
+## Screenshots
+
+## 📸 Screenshots
+![News Feed](Demo_Images/AInewswebpage.png)
+![Sentiment Analysis](path/to/sentiment_screenshot.png)
+
+
 ## Key Features
 
 - **Search and Summarize**: Enter a topic to retrieve the latest news with AI-generated summaries and headlines.
