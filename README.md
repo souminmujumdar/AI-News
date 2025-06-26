@@ -107,15 +107,6 @@ pytest tests/
 ## Live Demo
 
 Access the application at [https://ai-news-summarizer.streamlit.app](https://ai-news-summarizer.streamlit.app).  
-*Update with the actual deployment link if available.*
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For questions or feedback, please use [GitHub Issues](https://github.com/your-username/ai-news-summarizer/issues) or email your-email@example.com.
 
 ## Acknowledgments
 
