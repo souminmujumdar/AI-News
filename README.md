@@ -6,7 +6,8 @@
 
 ## 📸 Screenshots
 ![News Feed](Demo_Images/AInewswebpage.png)
-![Sentiment Analysis](path/to/sentiment_screenshot.png)
+![News Feed](Demo_Images/news.png)
+![News Feed](Demo_Images/personal news.png)
 
 
 ## Key Features
