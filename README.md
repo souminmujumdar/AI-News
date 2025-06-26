@@ -7,7 +7,7 @@
 ## 📸 Screenshots
 ![News Feed](Demo_Images/AInewswebpage.png)
 ![News Feed](Demo_Images/news.png)
-![News Feed](Demo_Images/personal news.png)
+![News Feed](Demo_Images/personalnews.png)
 
 
 ## Key Features
