@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-News-Summarizer
 
 
@@ -58,3 +59,6 @@
    streamlit run app.py
    ```
 
+=======
+# AI-News
+>>>>>>> 5c55cf75ca4501b5330514092f7e7a046e378152
